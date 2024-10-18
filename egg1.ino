@@ -7,11 +7,11 @@
 #define DHTPIN  5
 
 // LINE_TOKEN號碼
-#define LINE_TOKEN "6lwoOQW58jiUkvZRR71oMUzZmgsDZcZM6pPsrFkVW9B"
+#define LINE_TOKEN "***"
 
 // 設定WiFi的SSID跟密碼
 const char* ssid     = "HOME";
-const char* password = "16881688";
+const char* password = "***";
 
 DHT dht(DHTPIN, DHTTYPE);    // 22 works fine for ESP8266
  
